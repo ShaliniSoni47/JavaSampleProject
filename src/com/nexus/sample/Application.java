@@ -22,6 +22,6 @@ public class Application extends SpringBootServletInitializer {
 //        try {
             SpringApplication.run(Application.class, args);
 //        } catch (Exception e) {
-//        } this line is commen
+//        } this line is commented
     }
 }
